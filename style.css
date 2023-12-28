@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  border: 1px solid #000;
+  text-align: center;
+}
+
+td {
+  padding: 2px;
+}
+
+.label {
+  text-align: start;
+}
+
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: green;
+  color: #fff;
+  border: none;
+}
